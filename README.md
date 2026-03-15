@@ -39,8 +39,8 @@ for nilai in list:
 Ini adalah konsep traversal (menelusuri isi array). Program akan mengecek satu per satu isi "laci" tadi. Jika nilai di dalam laci tersebut memenuhi syarat (misalnya >= 60), maka akan dikategorikan sebagai "Lulus". Ini  Pytho bagaimana array digunakan untuk memisahkan atau mengelompokkan data berdasarkan kriteria tertentu.
 
 hasil array
-! [nj](https://github.com/gusmanwijaya-create/ib/blob/main/Screenshot_2026-03-15-12-23-41-740_com.android.chrome.jpg) 
-! [nj](https://github.com/gusmanwijaya-create/ib/blob/main/Screenshot_2026-03-15-12-23-48-397_com.android.chrome.jpg) 
+![nj](https://github.com/gusmanwijaya-create/ib/blob/main/Screenshot_2026-03-15-12-23-41-740_com.android.chrome.jpg) 
+![nj](https://github.com/gusmanwijaya-create/ib/blob/main/Screenshot_2026-03-15-12-23-48-397_com.android.chrome.jpg) 
 ![nj](https://github.com/gusmanwijaya-create/ib/blob/main/Screenshot_2026-03-15-12-23-56-) 
 
 3. Analisis tertentuitas
