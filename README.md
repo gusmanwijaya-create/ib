@@ -1,4 +1,5 @@
 penjelasan array
+
 ![nj](https://github.com/gusmanwijaya-create/ib/blob/main/IMG_20260315_125117.jpg)
 1. Inisialisasi (Foto 1)
 List = []
@@ -40,7 +41,7 @@ Ini adalah konsep traversal (menelusuri isi array). Program akan mengecek satu p
 hasil array
 ![nj](https://github.com/gusmanwijaya-create/ib/blob/main/Screenshot_2026-03-15-12-23-41-740_com.android.chrome.jpg) 
 ![nj](https://github.com/gusmanwijaya-create/ib/blob/main/Screenshot_2026-03-15-12-23-48-397_com.android.chrome.jpg) 
-![nj](https://github.com/gusmanwijaya-create/ib/blob/main/Screenshot_2026-03-15-12-23-56-) 
+![nj]() 
 
 3. Analisis tertentuitas
 Analisis ini melihat seberapa efisien algoritma yang digunakan dalam kode tersebut:
