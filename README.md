@@ -24,6 +24,7 @@ min(list): Mencari nilai terendah.
 sum(list) / len(list): Menjumlahkan seluruh isi array lalu membaginya dengan jumlah elemen (panjang array) untuk mendapatkan rata-rata.
 
 ![nj](https://github.com/gusmanwijaya-create/ib/blob/main/IMG_20260315_125214.jpg) 
+![nj](https://github.com/gusmanwijaya-create/ib/blob/main/IMG_20260315_125258.jpg) 
 4. Visualisasi Data (Foto 6 & 9)
 Konsep Array sangat krusial dalam pembuatan grafik menggunakan library matplotlib.
 
