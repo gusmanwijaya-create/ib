@@ -1,5 +1,4 @@
 penjelasan array
-
 ![nj](https://github.com/gusmanwijaya-create/ib/blob/main/IMG_20260315_125117.jpg)
 1. Inisialisasi (Foto 1)
 List = []
