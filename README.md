@@ -1,11 +1,12 @@
 penjelasan array
+
 ![nj](https://github.com/gusmanwijaya-create/ib/blob/main/IMG_20260315_125117.jpg)
 1. Inisialisasi (Foto 1)
 List = []
 Ini adalah tahap deklarasi. Di sini, kamu menyiapkan sebuah wadah kosong. Analoginya seperti menyiapkan buku absen yang masih kosong sebelum diisi nama mahasiswa.
 
 ![nj](https://github.com/gusmanwijaya-create/ib/blob/main/IMG_20260315_125137.jpg) 
-3. Mengisi Data / Input (Foto 2)
+2. Mengisi Data / Input (Foto 2)
 Pada bagian ini, kamu menggunakan perulangan (for i in range(10)).
 
 Konsep Indeks: Array memiliki nomor urut yang dimulai dari 0. Jadi, angka pertama yang dimasukkan akan menempati indeks 0, angka kedua di indeks 1, dan seterusnya.
