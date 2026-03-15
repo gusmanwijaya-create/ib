@@ -1,5 +1,5 @@
 penjelasan array
- ![nj](IMG_20260315_125258.jpgpng)
+ ![nj](https://github.com/gusmanwijaya-create/ib/blob/main/IMG_20260315_125117.jpgpng)
 1. Inisialisasi (Foto 1)
 List = []
 Ini adalah tahap deklarasi. Di sini, kamu menyiapkan sebuah wadah kosong. Analoginya seperti menyiapkan buku absen yang masih kosong sebelum diisi nama mahasiswa.
