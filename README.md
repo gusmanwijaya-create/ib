@@ -1,4 +1,4 @@
-penjelasan array
+PENJELASAN ARRAY
 
 ![nj](https://github.com/gusmanwijaya-create/ib/blob/main/IMG_20260315_125117.jpg)
 1. Inisialisasi (Foto 1)
@@ -38,12 +38,12 @@ Tanpa struktur array, kita akan kesulitan memplot banyak titik datsekaligusus ke
 for nilai in list:
 Ini adalah konsep traversal (menelusuri isi array). Program akan mengecek satu per satu isi "laci" tadi. Jika nilai di dalam laci tersebut memenuhi syarat (misalnya >= 60), maka akan dikategorikan sebagai "Lulus". Ini  Pytho bagaimana array digunakan untuk memisahkan atau mengelompokkan data berdasarkan kriteria tertentu.
 
-hasil array
+HASIL ARRAY
 ![nj](https://github.com/gusmanwijaya-create/ib/blob/main/Screenshot_2026-03-15-12-23-41-740_com.android.chrome.jpg) 
 ![nj](https://github.com/gusmanwijaya-create/ib/blob/main/Screenshot_2026-03-15-12-23-48-397_com.android.chrome.jpg) 
 ![nj](https://github.com/gusmanwijaya-create/ib/blob/main/Screenshot_2026-03-15-12-23-56-318_com.android.chrome.jpg) 
 
-3. Analisis tertentuitas
+3. ANALISIS KOMPLEKSITAS
 Analisis ini melihat seberapa efisien algoritma yang digunakan dalam kode tersebut:
 
 Kompleksitas Waktu (O(n)):
@@ -56,7 +56,7 @@ Kompleksitas Ruang (O(n)):
 
 Karena kita menyimpan semua 10 input ke dalam satu variabel list, ruang memori yang dibutuhkan akan bertambah besar seiring bertambahnya jumlah input mahasiswa.
 
-4. Refleksi Pembelajaran
+4. REFLEKSI PEMBELAJARAN
 Melalui praktikum ini, beberapa poin pembelajaran penting yang didapatkan adalah:
 
 Otomasi Data: Memahami bahwa penggunaan list dan looping jauh lebih efisien daripada menulis kode secara manual untuk setiap data.
