@@ -1,5 +1,5 @@
 penjelasan array
- ![nj](png)
+ ![nj](IMG_20260315_125258.jpgpng)
 1. Inisialisasi (Foto 1)
 List = []
 Ini adalah tahap deklarasi. Di sini, kamu menyiapkan sebuah wadah kosong. Analoginya seperti menyiapkan buku absen yang masih kosong sebelum diisi nama mahasiswa.
