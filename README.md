@@ -4,7 +4,7 @@ penjelasan array
 1. Inisialisasi (Foto 1)
 List = []
 Ini adalah tahap deklarasi. Di sini, kamu menyiapkan sebuah wadah kosong. Analoginya seperti menyiapkan buku absen yang masih kosong sebelum diisi nama mahasiswa.
-
+![nj](https://github.com/gusmanwijaya-create/ib/blob/main/IMG_20260315_125137.jpg) 
 2. Mengisi Data / Input (Foto 2)
 Pada bagian ini, kamu menggunakan perulangan (for i in range(10)).
 
@@ -12,6 +12,7 @@ Konsep Indeks: Array memiliki nomor urut yang dimulai dari 0. Jadi, angka pertam
 
 Method .append(): Fungsi ini digunakan untuk "menempelkan" atau menambahkan data baru ke posisi paling belakang dalam list tersebut secara dinamis.
 
+! []() 
 3. Pengolahan Data Statistik (Foto 5)
 Foto ini menunjukkan bahwa Array sangat kuat untuk pengolahan data massal menggunakan fungsi bawaan Python:
 
@@ -20,22 +21,26 @@ max(list): Mencari nilai tertinggi di dalam seluruh elemen array.
 min(list): Mencari nilai terendah.
 
 sum(list) / len(list): Menjumlahkan seluruh isi array lalu membaginya dengan jumlah elemen (panjang array) untuk mendapatkan rata-rata.
-
+![]() 
 4. Visualisasi Data (Foto 6 & 9)
 Konsep Array sangat krusial dalam pembuatan grafik menggunakan library matplotlib.
 
 Sumbu X biasanya mengambil urutan indeks atau kategori.
 
 Sumbu Y mengambil nilai-nilai yang tersimpan di dalam array tersebut.
-Tanpa struktur array, kita akan kesulitan memplot banyak titik data sekaligus ke dalam sebuah grafik.
-
+Tanpa struktur array, kita akan kesulitan memplot banyak titik datsekaligusus ke dalam sebuah grafik.
+! []() 
 5. Logika Iterasi & Kondisional (Foto 7)
 for nilai in list:
-Ini adalah konsep traversal (menelusuri isi array). Program akan mengecek satu per satu isi "laci" tadi. Jika nilai di dalam laci tersebut memenuhi syarat (misalnya >= 60), maka akan dikategorikan sebagai "Lulus". Ini menunjukkan bagaimana array digunakan untuk memisahkan atau mengelompokkan data berdasarkan kriteria tertentu.
+Ini adalah konsep traversal (menelusuri isi array). Program akan mengecek satu per satu isi "laci" tadi. Jika nilai di dalam laci tersebut memenuhi syarat (misalnya >= 60), maka akan dikategorikan sebagai "Lulus". Ini  Pytho bagaimana array digunakan untuk memisahkan atau mengelompokkan data berdasarkan kriteria tertentu.
 
 hasil array
+! []() 
+! []() 
+! []() 
+! []() 
 
-3. Analisis Kompleksitas
+3. Analisis tertentuitas
 Analisis ini melihat seberapa efisien algoritma yang digunakan dalam kode tersebut:
 
 Kompleksitas Waktu (O(n)):
