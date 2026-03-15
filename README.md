@@ -5,7 +5,7 @@ penjelasan array
 List = []
 Ini adalah tahap deklarasi. Di sini, kamu menyiapkan sebuah wadah kosong. Analoginya seperti menyiapkan buku absen yang masih kosong sebelum diisi nama mahasiswa.
 
-![nj](https://github.com/gusmanwijaya-create/ib/blob/main/IMG_20260315_125137.jpg) 
+![nj](https://github.com/gusmanwijaya-create/ib/blob/main/IMG_20260315_125157.jpg) 
 2. Mengisi Data / Input (Foto 2)
 Pada bagian ini, kamu menggunakan perulangan (for i in range(10)).
 
@@ -23,7 +23,7 @@ min(list): Mencari nilai terendah.
 
 sum(list) / len(list): Menjumlahkan seluruh isi array lalu membaginya dengan jumlah elemen (panjang array) untuk mendapatkan rata-rata.
 
-![nj](https://github.com/gusmanwijaya-create/ib/blob/main/IMG_20260315_125214.jpg) 
+![nj](https://github.com/gusmanwijaya-create/ib/blob/main/IMG_20260315_125240.jpg) 
 ![nj](https://github.com/gusmanwijaya-create/ib/blob/main/IMG_20260315_125258.jpg) 
 4. Visualisasi Data (Foto 6 & 9)
 Konsep Array sangat krusial dalam pembuatan grafik menggunakan library matplotlib.
